@@ -1,0 +1,18 @@
+22:23:52.433 [TestNG-tests-1] DEBUG resources.Base - Click on My Account
+22:23:52.533 [TestNG-tests-1] DEBUG resources.Base - click on Login option
+22:24:00.499 [TestNG-tests-1] DEBUG resources.Base - Enter Emalid
+22:24:00.656 [TestNG-tests-1] DEBUG resources.Base - Enter Password
+22:24:00.797 [TestNG-tests-1] DEBUG resources.Base - Click on Login Button
+22:24:05.472 [TestNG-tests-1] DEBUG resources.Base - Verifying Test Result
+22:24:05.598 [TestNG-tests-1] DEBUG resources.Base - Close an Application
+22:24:08.883 [TestNG-tests-2] DEBUG resources.Base - Close an Application
+23:39:23.612 [TestNG-tests-1] DEBUG resources.Base - Navigating to Application
+23:39:23.773 [TestNG-tests-2] DEBUG resources.Base - Navigating to Application
+23:39:30.490 [TestNG-tests-1] DEBUG resources.Base - Click on My Account
+23:39:30.491 [TestNG-tests-1] DEBUG resources.Base - click on Login option
+23:39:35.539 [TestNG-tests-2] DEBUG resources.Base - Close an Application
+23:39:36.712 [TestNG-tests-1] DEBUG resources.Base - Enter Emalid
+23:39:37.007 [TestNG-tests-1] DEBUG resources.Base - Enter Password
+23:39:37.199 [TestNG-tests-1] DEBUG resources.Base - Click on Login Button
+23:39:41.192 [TestNG-tests-1] DEBUG resources.Base - Verifying Test Result
+23:39:41.335 [TestNG-tests-1] DEBUG resources.Base - Close an Application
